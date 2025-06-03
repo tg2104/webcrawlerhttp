@@ -41,7 +41,6 @@ async function crawlPage(baseURL, currentURL, pages) {
         console.log(`error in fetch ${err.message} from website ${currentURL}`)
     }
     return pages
-    
 }
 
 function getURLsFromHTML(htmlBody, baseURL){
