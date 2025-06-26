@@ -1,5 +1,7 @@
 # Crawler.tish
  ![Preview](./ezgif-41942baf5e8689-ezgif.com-video-to-gif-converter.gif)
+
+
 A web crawler that extracts links from websites with ease. Built with Node.js and JavaScript.
 
 ## Description
